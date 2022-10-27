@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=23darkness&label=Profile%20views&color=0e75b6&style=flat" alt="23darkness" /> </p>
 
 - 🔭 I’m currently working on a new project ... 
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m learning python and javascript
 - 📫 Add me on Discord or join my discord server !
 <h3 align="left">Connect with me:</h3>
 <p align="left">
